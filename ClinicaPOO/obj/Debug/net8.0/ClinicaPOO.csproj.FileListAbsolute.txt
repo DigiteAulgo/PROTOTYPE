@@ -1,0 +1,14 @@
+C:\Users\moyse\OneDrive\Documentos\ZumbiBlocks2Backups\Nova pasta\ClinicaPOO\bin\Debug\net8.0\ClinicaPOO.exe
+C:\Users\moyse\OneDrive\Documentos\ZumbiBlocks2Backups\Nova pasta\ClinicaPOO\bin\Debug\net8.0\ClinicaPOO.deps.json
+C:\Users\moyse\OneDrive\Documentos\ZumbiBlocks2Backups\Nova pasta\ClinicaPOO\bin\Debug\net8.0\ClinicaPOO.runtimeconfig.json
+C:\Users\moyse\OneDrive\Documentos\ZumbiBlocks2Backups\Nova pasta\ClinicaPOO\bin\Debug\net8.0\ClinicaPOO.dll
+C:\Users\moyse\OneDrive\Documentos\ZumbiBlocks2Backups\Nova pasta\ClinicaPOO\bin\Debug\net8.0\ClinicaPOO.pdb
+C:\Users\moyse\OneDrive\Documentos\ZumbiBlocks2Backups\Nova pasta\ClinicaPOO\obj\Debug\net8.0\ClinicaPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moyse\OneDrive\Documentos\ZumbiBlocks2Backups\Nova pasta\ClinicaPOO\obj\Debug\net8.0\ClinicaPOO.AssemblyInfoInputs.cache
+C:\Users\moyse\OneDrive\Documentos\ZumbiBlocks2Backups\Nova pasta\ClinicaPOO\obj\Debug\net8.0\ClinicaPOO.AssemblyInfo.cs
+C:\Users\moyse\OneDrive\Documentos\ZumbiBlocks2Backups\Nova pasta\ClinicaPOO\obj\Debug\net8.0\ClinicaPOO.csproj.CoreCompileInputs.cache
+C:\Users\moyse\OneDrive\Documentos\ZumbiBlocks2Backups\Nova pasta\ClinicaPOO\obj\Debug\net8.0\ClinicaPOO.dll
+C:\Users\moyse\OneDrive\Documentos\ZumbiBlocks2Backups\Nova pasta\ClinicaPOO\obj\Debug\net8.0\refint\ClinicaPOO.dll
+C:\Users\moyse\OneDrive\Documentos\ZumbiBlocks2Backups\Nova pasta\ClinicaPOO\obj\Debug\net8.0\ClinicaPOO.pdb
+C:\Users\moyse\OneDrive\Documentos\ZumbiBlocks2Backups\Nova pasta\ClinicaPOO\obj\Debug\net8.0\ClinicaPOO.genruntimeconfig.cache
+C:\Users\moyse\OneDrive\Documentos\ZumbiBlocks2Backups\Nova pasta\ClinicaPOO\obj\Debug\net8.0\ref\ClinicaPOO.dll

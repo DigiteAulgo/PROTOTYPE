@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moyse\\OneDrive\\Documentos\\ZumbiBlocks2Backups\\Nova pasta\\ClinicaPOO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{107E8426-8536-426C-8806-117EC1A15744}|ClinicaPOO.csproj|c:\\users\\moyse\\onedrive\\documentos\\zumbiblocks2backups\\nova pasta\\clinicapoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{107E8426-8536-426C-8806-117EC1A15744}|ClinicaPOO.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{107E8426-8536-426C-8806-117EC1A15744}|ClinicaPOO.csproj|c:\\users\\moyse\\onedrive\\documentos\\zumbiblocks2backups\\nova pasta\\clinicapoo\\services\\gerenciadorprototipos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{107E8426-8536-426C-8806-117EC1A15744}|ClinicaPOO.csproj|solutionrelative:services\\gerenciadorprototipos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{107E8426-8536-426C-8806-117EC1A15744}|ClinicaPOO.csproj|c:\\users\\moyse\\onedrive\\documentos\\zumbiblocks2backups\\nova pasta\\clinicapoo\\models\\pacoteexame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{107E8426-8536-426C-8806-117EC1A15744}|ClinicaPOO.csproj|solutionrelative:models\\pacoteexame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{107E8426-8536-426C-8806-117EC1A15744}|ClinicaPOO.csproj|c:\\users\\moyse\\onedrive\\documentos\\zumbiblocks2backups\\nova pasta\\clinicapoo\\models\\procedimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{107E8426-8536-426C-8806-117EC1A15744}|ClinicaPOO.csproj|solutionrelative:models\\procedimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{107E8426-8536-426C-8806-117EC1A15744}|ClinicaPOO.csproj|c:\\users\\moyse\\onedrive\\documentos\\zumbiblocks2backups\\nova pasta\\clinicapoo\\interfaces\\iprototipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{107E8426-8536-426C-8806-117EC1A15744}|ClinicaPOO.csproj|solutionrelative:interfaces\\iprototipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPrototipo.cs",
+              "DocumentMoniker": "C:\\Users\\moyse\\OneDrive\\Documentos\\ZumbiBlocks2Backups\\Nova pasta\\ClinicaPOO\\Interfaces\\IPrototipo.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IPrototipo.cs",
+              "ToolTip": "C:\\Users\\moyse\\OneDrive\\Documentos\\ZumbiBlocks2Backups\\Nova pasta\\ClinicaPOO\\Interfaces\\IPrototipo.cs",
+              "RelativeToolTip": "Interfaces\\IPrototipo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T13:05:31.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GerenciadorPrototipos.cs",
+              "DocumentMoniker": "C:\\Users\\moyse\\OneDrive\\Documentos\\ZumbiBlocks2Backups\\Nova pasta\\ClinicaPOO\\Services\\GerenciadorPrototipos.cs",
+              "RelativeDocumentMoniker": "Services\\GerenciadorPrototipos.cs",
+              "ToolTip": "C:\\Users\\moyse\\OneDrive\\Documentos\\ZumbiBlocks2Backups\\Nova pasta\\ClinicaPOO\\Services\\GerenciadorPrototipos.cs",
+              "RelativeToolTip": "Services\\GerenciadorPrototipos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T12:45:27.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PacoteExame.cs",
+              "DocumentMoniker": "C:\\Users\\moyse\\OneDrive\\Documentos\\ZumbiBlocks2Backups\\Nova pasta\\ClinicaPOO\\Models\\PacoteExame.cs",
+              "RelativeDocumentMoniker": "Models\\PacoteExame.cs",
+              "ToolTip": "C:\\Users\\moyse\\OneDrive\\Documentos\\ZumbiBlocks2Backups\\Nova pasta\\ClinicaPOO\\Models\\PacoteExame.cs",
+              "RelativeToolTip": "Models\\PacoteExame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T12:43:51.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Procedimento.cs",
+              "DocumentMoniker": "C:\\Users\\moyse\\OneDrive\\Documentos\\ZumbiBlocks2Backups\\Nova pasta\\ClinicaPOO\\Models\\Procedimento.cs",
+              "RelativeDocumentMoniker": "Models\\Procedimento.cs",
+              "ToolTip": "C:\\Users\\moyse\\OneDrive\\Documentos\\ZumbiBlocks2Backups\\Nova pasta\\ClinicaPOO\\Models\\Procedimento.cs",
+              "RelativeToolTip": "Models\\Procedimento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T12:43:05.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\moyse\\OneDrive\\Documentos\\ZumbiBlocks2Backups\\Nova pasta\\ClinicaPOO\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\moyse\\OneDrive\\Documentos\\ZumbiBlocks2Backups\\Nova pasta\\ClinicaPOO\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T12:38:55.093Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
